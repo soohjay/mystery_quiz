@@ -1,0 +1,17 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  gap:4px;
+}
+
+ .section-title_slide1 p{
+  font-size: 24px;
+  font-weight: bold;
+ }
+ .section-title_slide2 p{
+  font-size: 24px;
+ }
+ .section-title_slide3 p{
+  font-size: 16px;
+  text-align: left;
+ }
